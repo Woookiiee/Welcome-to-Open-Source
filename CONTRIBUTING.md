@@ -26,7 +26,7 @@
     </td>
      <td align="center">
         <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+            <img src="https://imgs.search.brave.com/J3i1WurPsYGQ7AXDZTqxZneL21HHUhfVq841GfUE1CU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2FjL2Iw/LzcyL2FjYjA3MjY2/YjZjOTI4MDBmZjc0/OTI4MDA1M2VkOGEx/LmpwZw" width="100px;" alt="Neeraj Madake"/>
             <br />
             <sub><b>Neeraj Madake
         </a>
